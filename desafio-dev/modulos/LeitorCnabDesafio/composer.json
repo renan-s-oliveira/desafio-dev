@@ -1,0 +1,19 @@
+{
+    "name": "renan/leitor-cnab-desafio",
+    "description": "pacote para ler os arquivos do CNAB do desafio proposto",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Renan\\LeitorCnabDesafio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Renan de Souza Oliveira",
+            "email": "renanoliveira1988@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
